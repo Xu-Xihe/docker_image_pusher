@@ -1,1 +1,1 @@
-drpsychick/airprint-bridge
+--platform linux/arm64 drpsychick/airprint-bridge
