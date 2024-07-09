@@ -1,5 +1,1 @@
---platform linux/arm64 drpsychick/airprint-bridge
---platform linux/arm64 alpine
-znetwork/synology-airprint
-firilith/airprint
-nextcloud
+nextcloud:1.6.61
