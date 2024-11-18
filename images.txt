@@ -1,1 +1,3 @@
+zerotier
+tailscale
 nextcloud
