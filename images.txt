@@ -1,1 +1,1 @@
-radialapps/go-vod
+nextcloud:31.0.0
