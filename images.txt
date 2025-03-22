@@ -1,1 +1,1 @@
-nextcloud:31.0.0
+adguard/adguardhome:v0.107.59
